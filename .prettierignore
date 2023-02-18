@@ -1,2 +1,7 @@
 build
 coverage
+.eslintrc.json
+tsconfig.json
+package.json
+main.js
+.prettierrc.json
